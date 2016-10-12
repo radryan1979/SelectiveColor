@@ -1,0 +1,6 @@
+C:\Users\X452\Documents\Visual Studio 2015\Projects\SelectiveColorProcessor\SelectiveColorProcessor\bin\Debug\SelectiveColorProcessor.exe.config
+C:\Users\X452\Documents\Visual Studio 2015\Projects\SelectiveColorProcessor\SelectiveColorProcessor\bin\Debug\SelectiveColorProcessor.exe
+C:\Users\X452\Documents\Visual Studio 2015\Projects\SelectiveColorProcessor\SelectiveColorProcessor\bin\Debug\SelectiveColorProcessor.pdb
+C:\Users\X452\Documents\Visual Studio 2015\Projects\SelectiveColorProcessor\SelectiveColorProcessor\obj\Debug\SelectiveColorProcessor.csprojResolveAssemblyReference.cache
+C:\Users\X452\Documents\Visual Studio 2015\Projects\SelectiveColorProcessor\SelectiveColorProcessor\obj\Debug\SelectiveColorProcessor.exe
+C:\Users\X452\Documents\Visual Studio 2015\Projects\SelectiveColorProcessor\SelectiveColorProcessor\obj\Debug\SelectiveColorProcessor.pdb
